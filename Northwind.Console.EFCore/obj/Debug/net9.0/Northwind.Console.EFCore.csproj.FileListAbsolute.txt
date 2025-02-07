@@ -127,3 +127,4 @@ C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Northwind.Consol
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Northwind.Console.EFCore\obj\Debug\net9.0\Northwind.Console.EFCore.pdb
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Northwind.Console.EFCore\obj\Debug\net9.0\Northwind.Console.EFCore.genruntimeconfig.cache
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Northwind.Console.EFCore\obj\Debug\net9.0\ref\Northwind.Console.EFCore.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Northwind.Console.EFCore\obj\Debug\net9.0\Northwind.Console.EFCore.sourcelink.json
