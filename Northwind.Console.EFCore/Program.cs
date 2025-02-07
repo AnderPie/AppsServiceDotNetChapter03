@@ -32,12 +32,7 @@ WriteLine("-", 60);
 foreach(var p in products){
     WriteLine("| {0,5} | {1,-35} | {2,8:C} |", p.ProductId, p.ProductName, p.UnitPrice);
 }
-
 #endregion
-
-
-
-
     WriteLine("-",60);
     WriteLine(products.ToQueryString());
     WriteLine();
