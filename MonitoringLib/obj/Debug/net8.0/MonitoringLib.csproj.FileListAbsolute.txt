@@ -1,0 +1,12 @@
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\bin\Debug\net8.0\MonitoringLib.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\bin\Debug\net8.0\MonitoringLib.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\bin\Debug\net8.0\MonitoringLib.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\refint\MonitoringLib.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\MonitoringLib.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\MonitoringLib\obj\Debug\net8.0\ref\MonitoringLib.dll

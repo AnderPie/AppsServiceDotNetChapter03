@@ -3,13 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Console.HierarchyMapping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B7BE03-6827-43CA-BC8A-F221DC8CAAEB}|..\\MonitoringLib\\MonitoringLib.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringlib\\recorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8E711E9-D2C6-40F0-B184-6E3A175B2F6E}|..\\Benchmarking\\Benchmarking.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\benchmarking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E711E9-D2C6-40F0-B184-6E3A175B2F6E}|..\\Benchmarking\\Benchmarking.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\benchmarking\\stringbenchmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E711E9-D2C6-40F0-B184-6E3A175B2F6E}|..\\Benchmarking\\Benchmarking.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\benchmarking\\benchmarking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118FB1E-2BED-493C-B654-AEE48EC5F1AA}|..\\MonitoringApp\\MonitoringApp.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringapp\\program.helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118FB1E-2BED-493C-B654-AEE48EC5F1AA}|..\\MonitoringApp\\MonitoringApp.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118FB1E-2BED-493C-B654-AEE48EC5F1AA}|..\\MonitoringApp\\MonitoringApp.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringapp\\monitoringapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1281950-42E6-49C6-AEE0-90AC5962B462}|..\\Ch03Ex02ADONETvsEFCore\\Ch03Ex02ADONETvsEFCore.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\ch03ex02adonetvsefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1118FB1E-2BED-493C-B654-AEE48EC5F1AA}|..\\MonitoringApp\\MonitoringApp.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47C0DAD6-B252-4CFD-A3BF-F2EFB611B683}|..\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\northwind.common.entitymodels.sqlserver\\northwind.common.entitymodels.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B7BE03-6827-43CA-BC8A-F221DC8CAAEB}|..\\MonitoringLib\\MonitoringLib.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringlib\\recorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B7BE03-6827-43CA-BC8A-F221DC8CAAEB}|..\\MonitoringLib\\MonitoringLib.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\monitoringlib\\monitoringlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A43407BE-6571-4353-A22F-99902DC99F64}|..\\Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\northwind.common.entitymodels.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -50,9 +71,6 @@
       "RelativeMoniker": "D:0:0:{96FDFB6C-810D-4C55-8199-41BCB38D840A}|Northwind.Console.HierarchyMapping.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C0DAD6-B252-4CFD-A3BF-F2EFB611B683}|..\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\northwind.common.entitymodels.sqlserver\\northwind.common.entitymodels.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB62B075-EAE0-458C-BEF4-9D4F77C13160}|..\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|c:\\users\\fuzzy\\desktop\\csdotnet\\appsandservicesdotnet\\chapter03\\northwind.common.datacontext.sqlserver\\northwind.common.datacontext.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -63,50 +81,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringBenchmarks.cs",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\StringBenchmarks.cs",
+              "RelativeDocumentMoniker": "..\\Benchmarking\\StringBenchmarks.cs",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\StringBenchmarks.cs",
+              "RelativeToolTip": "..\\Benchmarking\\StringBenchmarks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:54:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Benchmarking",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\Benchmarking.csproj",
+              "RelativeDocumentMoniker": "..\\Benchmarking\\Benchmarking.csproj",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\Benchmarking.csproj",
+              "RelativeToolTip": "..\\Benchmarking\\Benchmarking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T21:50:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Benchmarking\\Program.cs",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Benchmarking\\Program.cs",
+              "RelativeToolTip": "..\\Benchmarking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:50:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.Helper.cs",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\Program.Helper.cs",
+              "RelativeDocumentMoniker": "..\\MonitoringApp\\Program.Helper.cs",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\Program.Helper.cs",
+              "RelativeToolTip": "..\\MonitoringApp\\Program.Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:30:59.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonitoringLib",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringLib\\MonitoringLib.csproj",
+              "RelativeDocumentMoniker": "..\\MonitoringLib\\MonitoringLib.csproj",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringLib\\MonitoringLib.csproj",
+              "RelativeToolTip": "..\\MonitoringLib\\MonitoringLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T21:13:51.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonitoringApp",
+              "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\MonitoringApp.csproj",
+              "RelativeDocumentMoniker": "..\\MonitoringApp\\MonitoringApp.csproj",
+              "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\MonitoringApp.csproj",
+              "RelativeToolTip": "..\\MonitoringApp\\MonitoringApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T21:12:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\MonitoringApp\\Program.cs",
               "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringApp\\Program.cs",
               "RelativeToolTip": "..\\MonitoringApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T19:55:41.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Recorder.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringLib\\Recorder.cs",
               "RelativeDocumentMoniker": "..\\MonitoringLib\\Recorder.cs",
               "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\MonitoringLib\\Recorder.cs",
               "RelativeToolTip": "..\\MonitoringLib\\Recorder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T19:55:23.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Ch03Ex02ADONETvsEFCore\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ch03Ex02ADONETvsEFCore\\Program.cs",
               "ToolTip": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Ch03Ex02ADONETvsEFCore\\Program.cs",
               "RelativeToolTip": "..\\Ch03Ex02ADONETvsEFCore\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T19:45:47.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "Northwind.Common.EntityModels.SqlServer.csproj",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
@@ -114,11 +210,12 @@
               "RelativeToolTip": "..\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-07T22:47:07.998Z"
+              "WhenOpened": "2025-02-07T22:47:07.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "NorthWindContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthWindContextExtensions.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.DataContext.SqlServer\\NorthWindContextExtensions.cs",
@@ -130,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Northwind.Common.DataContext.SqlServer.csproj",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj",
               "RelativeDocumentMoniker": "..\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj",
@@ -138,11 +235,12 @@
               "RelativeToolTip": "..\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-07T23:18:07.58Z"
+              "WhenOpened": "2025-02-07T23:18:07.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Customer.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.SqlServer\\Customer.cs",
@@ -154,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "HierarchyDb.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
               "RelativeDocumentMoniker": "Models\\HierarchyDb.cs",
@@ -166,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Console.HierarchyMapping\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -178,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Northwind.Common.EntityModels.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj",
@@ -186,11 +284,12 @@
               "RelativeToolTip": "..\\Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T22:50:47.596Z"
+              "WhenOpened": "2025-02-11T22:50:47.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.Tests\\UnitTest1.cs",
@@ -202,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "NorthwindContextPartial.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
@@ -214,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
@@ -226,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "SetLastRefreshedInterceptor.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.DataContext.SqlServer\\SetLastRefreshedInterceptor.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.DataContext.SqlServer\\SetLastRefreshedInterceptor.cs",
@@ -238,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "IHasLastRefreshed.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\IHasLastRefreshed.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.SqlServer\\IHasLastRefreshed.cs",
@@ -250,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Employee.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.SqlServer\\Employee.cs",
@@ -262,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "EmployeePartial.cs",
               "DocumentMoniker": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\AppsAndServicesDotNet\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\EmployeePartial.cs",
               "RelativeDocumentMoniker": "..\\Northwind.Common.EntityModels.SqlServer\\EmployeePartial.cs",

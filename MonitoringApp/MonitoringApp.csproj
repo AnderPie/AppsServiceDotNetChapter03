@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<Using Include="System.Console" Static="true" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MonitoringLib\MonitoringLib.csproj"/>
+	</ItemGroup>
 </Project>

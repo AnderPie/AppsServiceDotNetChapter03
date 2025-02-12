@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\bin\Debug\net8.0\Ch03Ex02ADONETvsEFCore.exe
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\bin\Debug\net8.0\Ch03Ex02ADONETvsEFCore.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\bin\Debug\net8.0\Ch03Ex02ADONETvsEFCore.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\bin\Debug\net8.0\Ch03Ex02ADONETvsEFCore.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\bin\Debug\net8.0\Ch03Ex02ADONETvsEFCore.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\refint\Ch03Ex02ADONETvsEFCore.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\ref\Ch03Ex02ADONETvsEFCore.dll
