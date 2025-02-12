@@ -13,3 +13,4 @@ C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvs
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.pdb
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.genruntimeconfig.cache
 C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\ref\Ch03Ex02ADONETvsEFCore.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter03\Ch03Ex02ADONETvsEFCore\obj\Debug\net8.0\Ch03Ex02ADONETvsEFCore.csproj.AssemblyReference.cache

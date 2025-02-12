@@ -7,4 +7,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj"/>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.*"/>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="System.Console" Static="true"/>
+	</ItemGroup>
 </Project>

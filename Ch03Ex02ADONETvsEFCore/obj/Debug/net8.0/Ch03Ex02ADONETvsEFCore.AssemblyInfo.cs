@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch03Ex02ADONETvsEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e393c4a11f738e530daaf79590105d823b3232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42e9bd2d93c698776697a9329f40424a215f470")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch03Ex02ADONETvsEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch03Ex02ADONETvsEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
